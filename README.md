@@ -9,5 +9,7 @@ Aplikacja korzysta z Allegro REST API do:
 
 
 **Aplikacja:** Allegro_shipping_BOT
+
 **Firma:** Liquid Capital
+
 **Kontakt:** liquid.capital777@gmail.com
